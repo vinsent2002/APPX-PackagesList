@@ -24,7 +24,7 @@ Provisioned apps installed with the Windows client OS
 | [Microsoft Messaging](https://apps.microsoft.com/detail/9WZDNCRFJBQ6)                            | Microsoft.Messaging                            |                           |
 | [Microsoft News](https://apps.microsoft.com/detail/9WZDNCRFHVFW)                                 | Microsoft.BingNews                             |                           |
 | [Microsoft Office Outlook Desktop Integration](https://apps.microsoft.com/detail/9MZ70GF6GNV6)   | Microsoft.OutlookDesktopIntegrationServices    |                           |
-| [Microsoft Pay](https://apps.microsoft.com/detail/9NBLGGH52CKV)                                  | Microsoft.Wallet                               |                           |
+| [Microsoft Pay](https://apps.microsoft.com/detail/9NBLGGH52CKV)                                  | Microsoft.Wallet                               | Deprecated(February 2019) |
 | [Microsoft People](https://apps.microsoft.com/detail/9NBLGGH10PG8)                               | Microsoft.People                               |                           |
 | [Microsoft Photos](https://apps.microsoft.com/detail/9WZDNCRFJBH4)                               | Microsoft.Windows.Photos                       |                           |
 | [Microsoft Solitaire Collection](https://apps.microsoft.com/detail/9WZDNCRFHWD2)                 | Microsoft.MicrosoftSolitaireCollection         |                           |
