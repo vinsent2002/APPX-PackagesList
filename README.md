@@ -35,7 +35,7 @@ Provisioned apps installed with the Windows client OS
 | [Microsoft To Do](https://apps.microsoft.com/detail/9NBLGGH5R558)                                | Microsoft.ToDos                                |                           |
 | [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4)                           | Microsoft.Whiteboard                           |                           |
 | [Mixed Reality Portal](https://apps.microsoft.com/detail/9NG1H8B3ZC7M)                           | Microsoft.MixedReality.Portal                  | Deprecated(December 2023) |
-| [Mobile Plans](https://apps.microsoft.com/detail/9NBLGGH5PNB1)                                   | Microsoft.OneConnect                           |                           |
+| [Mobile Plans](https://apps.microsoft.com/detail/9NBLGGH5PNB1)                                   | Microsoft.OneConnect                           | Deprecated(February 2026) |
 | [Movies & TV](https://apps.microsoft.com/detail/9WZDNCRFJ3P2)                                    | Microsoft.ZuneVideo                            |                           |
 | [MPEG-2 Video Extension](https://apps.microsoft.com/detail/9N95Q1ZZPMH4)                         | Microsoft.MPEG2VideoExtension                  |                           |
 | [MSN Money](https://apps.microsoft.com/detail/9WZDNCRFHV4V)                                      | Microsoft.BingFinance                          |                           |
